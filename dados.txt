@@ -1,0 +1,12 @@
+Dados do aluno
+
+-Primeiro Nome: Brenda
+-Profissão: Estudante
+-Cidade: Highland
+-O que faz nas horas vaga: Passo tempo com a família, estudo e me exercito.
+-Feedback sobre o curso Qualidade de Software: Bem completo e prático.
+-Feedback sobre a plataforma de estudo da EBAC: Gosto muito do visual e funcionalidade.
+
+Obrigado!!!
+
+
